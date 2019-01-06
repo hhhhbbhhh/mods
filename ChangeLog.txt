@@ -10,8 +10,6 @@
 <li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
 <li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
 <li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
-<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
-<li> ‏تفعيل ميزة المكالمات الجماعية</li>
 <li> تفعيل ميزة صورة داخل الصورة</li>
 <li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
 <li> دعم تغيير ثيم قسم الملصقات</li>
@@ -20,23 +18,7 @@
 <li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
 <li> إصلاح مشكلة البحث عن الثيمات</li>
 <li> إصلاحات أخرى</li>
-
-<li> New Base Updated to 2.18.327</li>
-<li> Enabled Stickers</li>
-<li> Add the option to download a variety of stickers in Plus settings (more will be added soon)</li>
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
-<li> Enabled Swipe To Reply</li>
-<li> Enabled Group Calls</li>
-<li> Increased Forward Limit for Indian Users</li>
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
-<li> Added Themed Stickers Tab</li>
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
-<li> Fixed Square Pics</li>
-<li> Fixed Search in Themes</li>
-<li> Many Other Fixes</li>
+<li>!!!ستظل تظهر هذة الرسالة حتى تقوم بتحديث الواتساب!!!</li>
 
 ","url":"https://ahmods1.blogspot.com/2018/11/ahwhatsapp_30.html"
 }
