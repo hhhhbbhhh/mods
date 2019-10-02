@@ -1,4 +1,4 @@
-{"version_code":452813,"content":"
+{"version_code":452812,"content":"
 <p>تحديث: 1.5</p>
 
 <p>.AHWhatsApp./p>
