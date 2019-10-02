@@ -1,4 +1,4 @@
-{"version_code":451220,"content":"
+{"version_code":452812,"content":"
 <p>تحديث: 1.5</p>
 
 <li> النسخة مبنية على اصدار 2.18.327</li>
