@@ -1,4 +1,4 @@
-{"version_code":452813,"content":"
+{"version_code":452814,"content":"
 <p>تحديث: 1.5</p>
 
 <li> ♥.AZWhatsApp.♥</li>
